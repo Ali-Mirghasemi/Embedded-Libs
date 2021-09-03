@@ -13,3 +13,6 @@
 [submodule "Str"]
 	path = Str
 	url = https://github.com/Ali-Mirghasemi/Str
+[submodule "Benchmark"]
+	path = Benchmark
+	url = https://github.com/Ali-Mirghasemi/Benchmark
