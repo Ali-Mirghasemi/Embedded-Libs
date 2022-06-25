@@ -21,4 +21,4 @@
 [submodule "Benchmark"]
 	path = Benchmark
 	url = https://github.com/Ali-Mirghasemi/Benchmark
-	branch = master
+	branch = origin/master
