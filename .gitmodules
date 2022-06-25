@@ -1,18 +1,24 @@
 [submodule "Stream"]
 	path = Stream
 	url = https://github.com/Ali-Mirghasemi/Stream
+
 [submodule "Codec"]
 	path = Codec
 	url = https://github.com/Ali-Mirghasemi/Codec
+
 [submodule "CmdManager"]
 	path = CmdManager
 	url = https://github.com/Ali-Mirghasemi/CmdManager
+
 [submodule "Key"]
 	path = Key
 	url = https://github.com/Ali-Mirghasemi/Key
+
 [submodule "Str"]
 	path = Str
 	url = https://github.com/Ali-Mirghasemi/Str
+
 [submodule "Benchmark"]
 	path = Benchmark
 	url = https://github.com/Ali-Mirghasemi/Benchmark
+	branch = master
