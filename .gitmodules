@@ -22,3 +22,6 @@
 	path = Benchmark
 	url = https://github.com/Ali-Mirghasemi/Benchmark
 	branch = origin/master
+[submodule "Param"]
+	path = Param
+	url = https://github.com/Ali-Mirghasemi/Param
