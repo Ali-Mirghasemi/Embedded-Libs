@@ -25,3 +25,6 @@
 [submodule "Param"]
 	path = Param
 	url = https://github.com/Ali-Mirghasemi/Param
+[submodule "ATCmd"]
+	path = ATCmd
+	url = https://github.com/Ali-Mirghasemi/ATCmd
