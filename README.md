@@ -1,6 +1,20 @@
 # Embedded Libs
 This repository contains of multiple useful and most used library in embedded systems such as Microcontroller
 
+## Clone the repository
+For clone repository with all submodules you have two choices:
+
+#### 1. Clone the repository with submodules
+```
+git clone --recursive https://github.com/Ali-Mirghasemi/Embedded-Libs               # Version 1.65+
+git clone --recursive -j8 https://github.com/Ali-Mirghasemi/Embedded-Libs           # Version 1.9+ 
+git clone --recurse-submodules -j8 https://github.com/Ali-Mirghasemi/Embedded-Libs  # Version 2.13+
+```
+#### 2. Already cloned the repository 
+```
+git submodule update --init --recursive
+```
+
 ## Stream
 `Stream` Library help you to serialize and deserialize binary data over any communication protocol, such as UART, Ethernet, ...
 
