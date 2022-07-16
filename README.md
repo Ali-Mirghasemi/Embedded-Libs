@@ -92,5 +92,7 @@ for more details see [Codec ReadMe](./Codec/README.md)
 
 for more details see [Benchmark ReadMe](./Benchmark/README.md)
 
-
+## Run Examples
+If you want to test examples it is recommended to clone the repository with submodules.
+now you can run the examples.
 
