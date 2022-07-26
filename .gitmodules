@@ -25,3 +25,6 @@
 [submodule "Param"]
 	path = Param
 	url = https://github.com/Ali-Mirghasemi/Param
+[submodule "Printer"]
+	path = Printer
+	url = https://github.com/Ali-Mirghasemi/Printer
