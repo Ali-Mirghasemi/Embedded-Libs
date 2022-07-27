@@ -80,7 +80,7 @@ for more details see [CmdManager ReadMe](https://github.com/Ali-Mirghasemi/CmdMa
 - Support customize codec configuration based on hardware
 - HAL (Hardware Abstract Layer) support
 
-for more details see [Codec ReadMe](./Codec/README.md)
+for more details see [Codec ReadMe](https://github.com/Ali-Mirghasemi/Codec/blob/master/README.md)
 
 ## Benchmark
 `Benchmark` Library help you to benchmark your functions in embedded system
