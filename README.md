@@ -26,7 +26,7 @@ git submodule update --init --recursive
 - User access to customize configuration base on hardware need
 - Any bytes buffer can turn into `StreamBuffer` without zero copy
 
-for more details see [Stream ReadMe](./Stream/README.md)
+for more details see [Stream ReadMe](https://github.com/Ali-Mirghasemi/Stream/blob/master/README.md)
 
 ## Str
 `Str` Library provide most used functions for work with strings in `C` language
@@ -40,7 +40,7 @@ for more details see [Stream ReadMe](./Stream/README.md)
 - Finding functions
 - Param parser
 
-for more details see [Str ReadMe](./Str/README.md)
+for more details see [Str ReadMe](https://github.com/Ali-Mirghasemi/Str/blob/master/README.md)
 
 ## Key
 `Key` Library provide a key manager, such as Buttons and DipSwitch 
@@ -54,7 +54,7 @@ for more details see [Str ReadMe](./Str/README.md)
 - Support customize key configuration based on hardware
 - HAL (Hardware Abstract Layer) support
 
-for more details see [Key ReadMe](./Key/README.md)
+for more details see [Key ReadMe](https://github.com/Ali-Mirghasemi/Key/blob/master/README.md)
 
 ## CmdManager
 `CmdManager` Library provide a command manager, such as CLI, Telnet, ... for your embedded system over a HAL (Hardware Abstract Layer)
@@ -69,7 +69,7 @@ for more details see [Key ReadMe](./Key/README.md)
 - Automatic sort command by name for more performance in searching
 - Support customize command configuration based on hardware
 
-for more details see [CmdManager ReadMe](./CmdManager/README.md)
+for more details see [CmdManager ReadMe](https://github.com/Ali-Mirghasemi/CmdManager/blob/master/README.md)
 
 ## Codec
 `Codec` Library help you to create your own layer protocol 
@@ -90,7 +90,12 @@ for more details see [Codec ReadMe](./Codec/README.md)
 - Support customize benchmark configuration based on hardware
 - HAL (Hardware Abstract Layer) support
 
-for more details see [Benchmark ReadMe](./Benchmark/README.md)
+for more details see [Benchmark ReadMe](https://github.com/Ali-Mirghasemi/Benchmark/blob/master/README.md)
+
+## Printer
+`Printer` Library help you to print your data over `Stream`
+
+for more details see [Printer ReadMe](https://github.com/Ali-Mirghasemi/Printer/blob/master/README.md)
 
 ## Run Examples
 If you want to test examples it is recommended to clone the repository with submodules.
