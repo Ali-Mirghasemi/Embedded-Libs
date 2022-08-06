@@ -28,3 +28,6 @@
 [submodule "Printer"]
 	path = Printer
 	url = https://github.com/Ali-Mirghasemi/Printer
+[submodule "StatusLed"]
+	path = StatusLed
+	url = https://github.com/Ali-Mirghasemi/StatusLed
