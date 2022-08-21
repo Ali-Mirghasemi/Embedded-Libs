@@ -31,3 +31,6 @@
 [submodule "StatusLed"]
 	path = StatusLed
 	url = https://github.com/Ali-Mirghasemi/StatusLed
+[submodule "KeyPad"]
+	path = KeyPad
+	url = https://github.com/Ali-Mirghasemi/KeyPad
