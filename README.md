@@ -15,6 +15,11 @@ git clone --recurse-submodules -j8 https://github.com/Ali-Mirghasemi/Embedded-Li
 git submodule update --init --recursive
 ```
 
+#### 3. Pull all submodules
+```
+git pull --recurse-submodules
+```
+
 ## Stream
 `Stream` Library help you to serialize and deserialize binary data over any communication protocol, such as UART, Ethernet, ...
 
