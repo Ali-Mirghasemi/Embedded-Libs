@@ -34,3 +34,6 @@
 [submodule "KeyPad"]
 	path = KeyPad
 	url = https://github.com/Ali-Mirghasemi/KeyPad
+[submodule "Signal"]
+	path = Signal
+	url = https://github.com/Ali-Mirghasemi/Signal
