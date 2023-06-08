@@ -37,3 +37,6 @@
 [submodule "Signal"]
 	path = Signal
 	url = https://github.com/Ali-Mirghasemi/Signal
+[submodule "ps2_keyboard"]
+	path = ps2_keyboard
+	url = https://github.com/hamsaco/ps2_keyboard
