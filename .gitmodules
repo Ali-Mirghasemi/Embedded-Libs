@@ -37,3 +37,6 @@
 [submodule "Signal"]
 	path = Signal
 	url = https://github.com/Ali-Mirghasemi/Signal
+[submodule "sevenSeg"]
+	path = sevenSeg
+	url = https://github.com/hamsaco/sevenSeg
