@@ -37,3 +37,7 @@
 [submodule "Signal"]
 	path = Signal
 	url = https://github.com/Ali-Mirghasemi/Signal
+[submodule "Reflex"]
+	path = Reflex
+	url = https://github.com/Ali-Mirghasemi/Reflex
+	branch = master
