@@ -41,3 +41,6 @@
 	path = Reflex
 	url = https://github.com/Ali-Mirghasemi/Reflex
 	branch = master
+[submodule "Queue"]
+	path = Queue
+	url = https://github.com/Ali-Mirghasemi/Queue
