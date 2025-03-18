@@ -44,3 +44,6 @@
 [submodule "Queue"]
 	path = Queue
 	url = https://github.com/Ali-Mirghasemi/Queue
+[submodule "UARTStream"]
+	path = UARTStream
+	url = https://github.com/Ali-Mirghasemi/UARTStream.git
