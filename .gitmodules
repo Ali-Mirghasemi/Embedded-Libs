@@ -47,3 +47,9 @@
 [submodule "UARTStream"]
 	path = UARTStream
 	url = https://github.com/Ali-Mirghasemi/UARTStream.git
+[submodule "Macro"]
+	path = Macro
+	url = https://github.com/Ali-Mirghasemi/Macro.git
+[submodule "Assert"]
+	path = Assert
+	url = https://github.com/Ali-Mirghasemi/Assert.git
