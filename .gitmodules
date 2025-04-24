@@ -53,3 +53,6 @@
 [submodule "Assert"]
 	path = Assert
 	url = https://github.com/Ali-Mirghasemi/Assert.git
+[submodule "Log"]
+	path = Log
+	url = https://github.com/Ali-Mirghasemi/Log
